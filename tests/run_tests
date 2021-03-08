@@ -1,0 +1,2 @@
+./test_valid_csv.sh
+./test_csv_update_on_write.sh

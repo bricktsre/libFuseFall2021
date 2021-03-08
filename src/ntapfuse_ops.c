@@ -22,7 +22,6 @@
 
 #include "ntapfuse_ops.h"
 #include <stdio.h>
-#include <stdarg.h>
 
 #include <errno.h>
 #include <dirent.h>
@@ -46,20 +45,6 @@ fullpath (const char *path, char *buf)
   strcat (buf, path);
 }
 
-void
-log_data(const char * format, ...){
-    
-  char fpath[PATH_MAX];
-  const char* path = "/../log.txt";
-  fullpath (path, fpath);
-  FILE * fp = fopen(fpath, "a");    
-
-  va_list args;
-  va_start(args, format);
-  vfprintf(fp, format, args);
-  va_end(args);
-  fclose(fp);
-}
 
 /* The following functions describe FUSE operations. Each operation appends
    the path of the root filesystem to the given path in order to give the
@@ -216,7 +201,16 @@ ntapfuse_write (const char *path, const char *buf, size_t size, off_t off,
 {
   char fpath[PATH_MAX];
   fullpath (path, fpath);
-  log_data("write: \n\tPATH: %s\n\tSIZE: %lu\n\tOFFS: %lu\n",path, size, off);
+  
+  FILE *logFile;
+  logFile = fopen("/mnt/d/lwdon/Documents/CS_1980/logs.txt","a");
+  fprintf(logFile, "Write to file:\n\t"
+		"File path: %s\n\t"
+		"Size: %ld bytes\n\t"
+		"Offset: %ld\n", 
+		fpath, size, off);
+  fclose(logFile);
+
   return pwrite (fi->fh, buf, size, off) < 0 ? -errno : size;
 }
 
