@@ -6,7 +6,7 @@ if [ $# -ne 2 ];then
 fi
 
 printPass=false
-printDiff=true
+printDiff=false
 
 base=$1
 mount=$2
