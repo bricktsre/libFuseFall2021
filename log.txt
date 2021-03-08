@@ -1,0 +1,352 @@
+write: 
+	PATH: /hello.txt
+	SIZE: 12
+	OFFS: 0
+write: 
+	PATH: /hello.txt
+	SIZE: 12
+	OFFS: 12
+write: 
+	PATH: /hello.txt
+	SIZE: 16
+	OFFS: 24
+write: 
+	PATH: /hello.txt
+	SIZE: 12
+	OFFS: 0
+write: 
+	PATH: /hello.txt
+	SIZE: 12
+	OFFS: 0
+write: 
+	PATH: /hello.txt
+	SIZE: 12
+	OFFS: 12
+write: 
+	PATH: /hello.txt
+	SIZE: 16
+	OFFS: 24
+write: 
+	PATH: /hello.txt
+	SIZE: 12
+	OFFS: 0
+write: 
+	PATH: /hello.txt
+	SIZE: 12
+	OFFS: 0
+write: 
+	PATH: /hello.txt
+	SIZE: 12
+	OFFS: 12
+write: 
+	PATH: /hello.txt
+	SIZE: 16
+	OFFS: 24
+write: 
+	PATH: /hello.txt
+	SIZE: 12
+	OFFS: 0
+write: 
+	PATH: /hello.txt
+	SIZE: 12
+	OFFS: 0
+write: 
+	PATH: /hello.txt
+	SIZE: 12
+	OFFS: 12
+write: 
+	PATH: /hello.txt
+	SIZE: 16
+	OFFS: 24
+write: 
+	PATH: /hello.txt
+	SIZE: 12
+	OFFS: 0
+write: 
+	PATH: /hello.txt
+	SIZE: 12
+	OFFS: 0
+write: 
+	PATH: /hello.txt
+	SIZE: 12
+	OFFS: 12
+write: 
+	PATH: /hello.txt
+	SIZE: 16
+	OFFS: 24
+write: 
+	PATH: /hello.txt
+	SIZE: 12
+	OFFS: 0
+write: 
+	PATH: /hello.txt
+	SIZE: 12
+	OFFS: 0
+write: 
+	PATH: /hello.txt
+	SIZE: 12
+	OFFS: 12
+write: 
+	PATH: /hello.txt
+	SIZE: 16
+	OFFS: 24
+write: 
+	PATH: /hello.txt
+	SIZE: 12
+	OFFS: 0
+write: 
+	PATH: /hello.txt
+	SIZE: 12
+	OFFS: 0
+write: 
+	PATH: /hello.txt
+	SIZE: 12
+	OFFS: 12
+write: 
+	PATH: /hello.txt
+	SIZE: 16
+	OFFS: 24
+write: 
+	PATH: /hello.txt
+	SIZE: 12
+	OFFS: 0
+write: 
+	PATH: /hello.txt
+	SIZE: 12
+	OFFS: 0
+write: 
+	PATH: /hello.txt
+	SIZE: 12
+	OFFS: 12
+write: 
+	PATH: /hello.txt
+	SIZE: 16
+	OFFS: 24
+write: 
+	PATH: /hello.txt
+	SIZE: 12
+	OFFS: 0
+write: 
+	PATH: /hello.txt
+	SIZE: 12
+	OFFS: 0
+write: 
+	PATH: /hello.txt
+	SIZE: 12
+	OFFS: 12
+write: 
+	PATH: /hello.txt
+	SIZE: 16
+	OFFS: 24
+write: 
+	PATH: /hello.txt
+	SIZE: 12
+	OFFS: 0
+write: 
+	PATH: /hello.txt
+	SIZE: 12
+	OFFS: 0
+write: 
+	PATH: /hello.txt
+	SIZE: 12
+	OFFS: 12
+write: 
+	PATH: /hello.txt
+	SIZE: 16
+	OFFS: 24
+write: 
+	PATH: /hello.txt
+	SIZE: 12
+	OFFS: 0
+write: 
+	PATH: /hello.txt
+	SIZE: 12
+	OFFS: 0
+write: 
+	PATH: /hello.txt
+	SIZE: 12
+	OFFS: 12
+write: 
+	PATH: /hello.txt
+	SIZE: 16
+	OFFS: 24
+write: 
+	PATH: /hello.txt
+	SIZE: 12
+	OFFS: 0
+write: 
+	PATH: /hello.txt
+	SIZE: 12
+	OFFS: 0
+write: 
+	PATH: /hello.txt
+	SIZE: 12
+	OFFS: 12
+write: 
+	PATH: /hello.txt
+	SIZE: 16
+	OFFS: 24
+write: 
+	PATH: /hello.txt
+	SIZE: 12
+	OFFS: 0
+write: 
+	PATH: /hello.txt
+	SIZE: 12
+	OFFS: 0
+write: 
+	PATH: /hello.txt
+	SIZE: 12
+	OFFS: 12
+write: 
+	PATH: /hello.txt
+	SIZE: 16
+	OFFS: 24
+write: 
+	PATH: /hello.txt
+	SIZE: 12
+	OFFS: 0
+write: 
+	PATH: /hello.txt
+	SIZE: 12
+	OFFS: 0
+write: 
+	PATH: /hello.txt
+	SIZE: 12
+	OFFS: 12
+write: 
+	PATH: /hello.txt
+	SIZE: 16
+	OFFS: 24
+write: 
+	PATH: /hello.txt
+	SIZE: 12
+	OFFS: 0
+write: 
+	PATH: /hello.txt
+	SIZE: 12
+	OFFS: 0
+write: 
+	PATH: /hello.txt
+	SIZE: 12
+	OFFS: 12
+write: 
+	PATH: /hello.txt
+	SIZE: 16
+	OFFS: 24
+write: 
+	PATH: /hello.txt
+	SIZE: 12
+	OFFS: 0
+write: 
+	PATH: /hello.txt
+	SIZE: 12
+	OFFS: 0
+write: 
+	PATH: /hello.txt
+	SIZE: 12
+	OFFS: 12
+write: 
+	PATH: /hello.txt
+	SIZE: 16
+	OFFS: 24
+write: 
+	PATH: /hello.txt
+	SIZE: 12
+	OFFS: 0
+write: 
+	PATH: /hello.txt
+	SIZE: 12
+	OFFS: 0
+write: 
+	PATH: /hello.txt
+	SIZE: 12
+	OFFS: 12
+write: 
+	PATH: /hello.txt
+	SIZE: 16
+	OFFS: 24
+write: 
+	PATH: /hello.txt
+	SIZE: 12
+	OFFS: 0
+write: 
+	PATH: /hello.txt
+	SIZE: 12
+	OFFS: 0
+write: 
+	PATH: /hello.txt
+	SIZE: 12
+	OFFS: 12
+write: 
+	PATH: /hello.txt
+	SIZE: 16
+	OFFS: 24
+write: 
+	PATH: /hello.txt
+	SIZE: 12
+	OFFS: 0
+write: 
+	PATH: /hello.txt
+	SIZE: 12
+	OFFS: 0
+write: 
+	PATH: /hello.txt
+	SIZE: 12
+	OFFS: 12
+write: 
+	PATH: /hello.txt
+	SIZE: 16
+	OFFS: 24
+write: 
+	PATH: /hello.txt
+	SIZE: 12
+	OFFS: 0
+write: 
+	PATH: /hello.txt
+	SIZE: 12
+	OFFS: 0
+write: 
+	PATH: /hello.txt
+	SIZE: 12
+	OFFS: 12
+write: 
+	PATH: /hello.txt
+	SIZE: 16
+	OFFS: 24
+write: 
+	PATH: /hello.txt
+	SIZE: 12
+	OFFS: 0
+write: 
+	PATH: /hello.txt
+	SIZE: 12
+	OFFS: 0
+write: 
+	PATH: /hello.txt
+	SIZE: 12
+	OFFS: 12
+write: 
+	PATH: /hello.txt
+	SIZE: 16
+	OFFS: 24
+write: 
+	PATH: /hello.txt
+	SIZE: 12
+	OFFS: 0
+write: 
+	PATH: /hello.txt
+	SIZE: 12
+	OFFS: 0
+write: 
+	PATH: /hello.txt
+	SIZE: 12
+	OFFS: 12
+write: 
+	PATH: /hello.txt
+	SIZE: 16
+	OFFS: 24
+write: 
+	PATH: /hello.txt
+	SIZE: 12
+	OFFS: 0

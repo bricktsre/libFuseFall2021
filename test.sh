@@ -5,6 +5,9 @@ if [ $# -ne 2 ];then
     exit;
 fi
 
+printPass=false
+printDiff=true
+
 base=$1
 mount=$2
 
@@ -25,10 +28,16 @@ for f in ./tests/*.sh; do
     #echo $code2
 
     if [ "$output1" = "$output2" ] && [ $code1 -eq $code2 ]; then
-        echo PASSED: $f
+        if [ "$printPass" = true ]; then
+            echo PASSED: $f
+        fi
         let "numPass+=1"
     else
         echo FAILED: $f
+        if [ "$printDiff" = true ]; then
+            diff <(echo "$output1") <(echo "$output2")
+            echo ""
+        fi
         let "numFail+=1"
     fi
 done

@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $RANDOM
+exit $RANDOM
